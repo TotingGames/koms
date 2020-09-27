@@ -28,6 +28,7 @@ nav .menu li {
 }
 /*POLICY MENU*/
     .policy {
+        text-align: center;
         float: right;
     padding: 25px 25px;
     margin-right: 25px;
@@ -155,6 +156,7 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
+        text-align: center;
         float: right;
     padding: 25px 25px;
     margin-right: 25px;
@@ -301,6 +303,7 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
+        text-align: center;
         float: right;
     padding: 25px 25px;
     margin-right: 25px;
@@ -443,6 +446,7 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
+        text-align: center;
         float: right;
     padding: 25px 25px;
     margin-right: 25px;
