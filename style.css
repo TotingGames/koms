@@ -1,0 +1,523 @@
+/*DESKTOP*/
+@media only screen and (min-width: 1440px) {
+* {
+margin: 0;
+padding: 0;
+}
+body {
+    background-color: rgb(143, 142, 142);
+}
+nav {
+    float: right;
+    width: 100%;
+    background-color: rgb(182, 179, 179);
+    border-radius: 1px;
+}
+nav .menu li {
+    float: right;
+    padding: 25px 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: rgb(221, 221, 221);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 2px;
+    margin: 40px 55px;
+    list-style-type: none;
+    color: rgb(27, 27, 27);
+}
+nav .menu {
+    background-color: rgb(27, 27, 27);
+}
+nav a{
+    text-decoration: none;
+}
+.about {
+    margin: 0px;
+    padding: 5px;
+}
+.about {
+    color: black;
+    font-family: Arial black, Helvetica, sans-serif;
+    font-size: 64px;
+    font-style: bold;
+    text-align: center;
+    padding-top: 5px;
+}
+.projects {
+    padding-top: 5px;
+}
+.about p {
+    font-family: Arial , Helvetica, sans-serif;
+    font-size: 24px;
+}
+.history, h1 {
+    color: black;
+    font-family: Arial black, Helvetica, sans-serif;
+    font-size: 64px;
+    font-style: bold;
+    text-align: center;
+    margin: 25px;
+}
+.history, b {
+    font-family: Arial , Helvetica, sans-serif;
+    font-size: 64px;
+    font-style: bold;
+    text-align: center;
+}
+.businesslogo {
+    width: 80px;
+    margin-left: 25px;
+    margin-top: 3px;
+    height: 62px;
+}
+/*POLICIES*/
+/* Any policy paragraph */
+
+
+
+#policy p {
+
+    font-family: Arial , Helvetica, sans-serif;
+    font-size: 24px;
+  
+  }
+  
+  
+  
+  /* Any policy table */
+  
+  
+  
+  #policy table {
+  
+    border: 1px solid black;
+  
+    vertical-align: bottom;
+  
+  }
+  
+  
+  
+  /* Any policy h2 */
+  
+  
+  
+  #policy h2 {
+  
+    background-color: black;
+  
+    color: white;
+  
+    font-weight: bold;
+    text-align: center;
+  
+  }
+  
+  
+  
+  /* Any policy h3 */
+  
+  
+  
+  #policy h3 {
+  
+    font-family: “Andale Mono”, monospace;
+  
+    font-size: 20px;
+  
+  }
+}
+/*IPAD/TABLET*/
+@media only screen and (min-width: 768px) {
+    * {
+        margin: 0;
+        padding: 0;
+        }
+        body {
+            background-color: rgb(143, 142, 142);
+        
+        }
+        nav {
+            float: right;
+            width: 100%;
+            background-color: rgb(182, 179, 179);
+            border-radius: 2px;
+            height: 0%;
+        }
+        nav .menu li {
+            float: right;
+            padding: 4px 4px;
+            margin-right: 4px;
+            margin-left: 4px;
+            background-color: rgb(221, 221, 221);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            border-radius: 2px;
+            margin: 20px 44px;
+            list-style-type: none;
+            color: rgb(27, 27, 27);
+        }
+        nav .menu {
+            background-color: rgb(27, 27, 27);
+        }
+        nav a{
+            text-decoration: none;
+        }
+        .about {
+            margin: 0px;
+            padding: 5px;
+        }
+        .about {
+            color: black;
+            font-family: Arial black, Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+            padding-top: 5px;
+        }
+        .projects {
+            padding-top: 5px;
+        }
+        .about p {
+            font-family: Arial , Helvetica, sans-serif;
+            font-size: 24px;
+        }
+        .history, h1 {
+            color: black;
+            font-family: Arial black, Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+            margin: 25px;
+        }
+        .history, b {
+            font-family: Arial , Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+        }
+        .businesslogo {
+            width: 80px;
+            margin-left: 25px;
+            margin-top: 3px;
+            height: 62px;
+        }
+        /*POLICIES*/
+/* Any policy paragraph */
+
+
+
+#policy p {
+
+    font-family: Arial , Helvetica, sans-serif;
+    font-size: 24px;
+  
+  }
+  
+  
+  
+  /* Any policy table */
+  
+  
+  
+  #policy table {
+  
+    border: 1px solid black;
+  
+    vertical-align: bottom;
+  
+  }
+  
+  
+  
+  /* Any policy h2 */
+  
+  
+  
+  #policy h2 {
+  
+    background-color: black;
+  
+    color: white;
+  
+    font-weight: bold;
+  
+  }
+  
+  
+  
+  /* Any policy h3 */
+  
+  
+  
+  #policy h3 {
+  
+    font-family: “Andale Mono”, monospace;
+  
+    font-size: 20px;
+  
+  }
+}
+/*Iphone Large*/
+@media only screen and (min-width: 414px) {
+    * {
+        margin: 0;
+        padding: 0;
+        }
+        body {
+            background-color: rgb(143, 142, 142);
+        
+        }
+        nav {
+            float: center;
+            width: 100%;
+            background-color: rgb(182, 179, 179);
+            border-radius: 2px;
+            height: 0%;
+        }
+        nav .menu li {
+            float: center;
+            padding: 10px 10px;
+            margin-right: 10px;
+            margin-left: 10px;
+            background-color: rgb(221, 221, 221);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            border-radius: 2px;
+            margin: 10px 33px;
+            list-style-type: none;
+            color: rgb(27, 27, 27);
+        }
+        nav .menu {
+            background-color: rgb(27, 27, 27);
+        }
+        nav a{
+            text-decoration: none;
+        }
+        .about {
+            margin: 0px;
+            padding: 5px;
+        }
+        .about {
+            color: black;
+            font-family: Arial black, Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+            padding-top: 5px;
+        }
+        .projects {
+            padding-top: 5px;
+        }
+        .about p {
+            font-family: Arial , Helvetica, sans-serif;
+            font-size: 24px;
+        }
+        .history, h1 {
+            color: black;
+            font-family: Arial black, Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+            margin: 25px;
+        }
+        .history, b {
+            font-family: Arial , Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+        }
+        .businesslogo {
+            width: 80px;
+            margin-left: 25px;
+            margin-top: 3px;
+            height: 62px;
+        }
+        /*POLICIES*/
+/* Any policy paragraph */
+
+
+
+#policy p {
+
+    font-family: Arial , Helvetica, sans-serif;
+    font-size: 24px;
+  
+  }
+  
+  
+  
+  /* Any policy table */
+  
+  
+  
+  #policy table {
+  
+    border: 1px solid black;
+  
+    vertical-align: bottom;
+  
+  }
+  
+  
+  
+  /* Any policy h2 */
+  
+  
+  
+  #policy h2 {
+  
+    background-color: black;
+  
+    color: white;
+  
+    font-weight: bold;
+  
+  }
+  
+  
+  
+  /* Any policy h3 */
+  
+  
+  
+  #policy h3 {
+  
+    font-family: “Andale Mono”, monospace;
+  
+    font-size: 20px;
+  
+  }
+}
+/*Iphone Classic*/
+@media only screen and (min-width: 375px) {
+    * {
+        margin: 0;
+        padding: 0;
+        }
+        body {
+            background-color: rgb(143, 142, 142);
+        
+        }
+        nav {
+            float: center;
+            width: 100%;
+            background-color: rgb(182, 179, 179);
+            border-radius: 2px;
+            height: 0%;
+        }
+        nav .menu li {
+            float: center;
+            padding: 10px 10px;
+            margin-right: 10px;
+            margin-left: 10px;
+            background-color: rgb(221, 221, 221);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            border-radius: 2px;
+            margin: 10px 33px;
+            list-style-type: none;
+            color: rgb(27, 27, 27);
+        }
+        nav .menu {
+            background-color: rgb(27, 27, 27);
+        }
+        nav a{
+            text-decoration: none;
+        }
+        .about {
+            margin: 0px;
+            padding: 5px;
+        }
+        .about {
+            color: black;
+            font-family: Arial black, Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+            padding-top: 5px;
+        }
+        .projects {
+            padding-top: 5px;
+        }
+        .about p {
+            font-family: Arial , Helvetica, sans-serif;
+            font-size: 24px;
+        }
+        .history, h1 {
+            color: black;
+            font-family: Arial black, Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+            margin: 25px;
+        }
+        .history, b {
+            font-family: Arial , Helvetica, sans-serif;
+            font-size: 64px;
+            font-style: bold;
+            text-align: center;
+        }
+        .businesslogo {
+            width: 80px;
+            margin-left: 25px;
+            margin-top: 3px;
+            height: 62px;
+        }
+        /*POLICIES*/
+/* Any policy paragraph */
+
+
+
+#policy p {
+
+    font-family: Arial , Helvetica, sans-serif;
+    font-size: 24px;
+  
+  }
+  
+  
+  
+  /* Any policy table */
+  
+  
+  
+  #policy table {
+  
+    border: 1px solid black;
+  
+    vertical-align: bottom;
+  
+  }
+  
+  
+  
+  /* Any policy h2 */
+  
+  
+  
+  #policy h2 {
+  
+    background-color: black;
+  
+    color: white;
+  
+    font-weight: bold;
+  
+  }
+  
+  
+  
+  /* Any policy h3 */
+  
+  
+  
+  #policy h3 {
+  
+    font-family: “Andale Mono”, monospace;
+  
+    font-size: 20px;
+  
+  }
+}
