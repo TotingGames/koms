@@ -28,7 +28,8 @@ nav .menu li {
 }
 /*POLICY MENU*/
     .policy {
-    padding: 25px 25px;
+    float: right;
+    padding: 100px 100px;
     margin-right: 25px;
     margin-left: 25px;
     background-color: rgb(221, 221, 221);
@@ -154,7 +155,8 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
-    padding: 25px 25px;
+    float: right;        
+    padding: 100px 100px;
     margin-right: 25px;
     margin-left: 25px;
     background-color: rgb(221, 221, 221);
@@ -299,7 +301,8 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
-    padding: 25px 25px;
+    float: right;        
+    padding: 100px 100px;
     margin-right: 25px;
     margin-left: 25px;
     background-color: rgb(221, 221, 221);
@@ -440,7 +443,8 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
-    padding: 25px 25px;
+    float: right;        
+    padding: 100px 100px;
     margin-right: 25px;
     margin-left: 25px;
     background-color: rgb(221, 221, 221);
