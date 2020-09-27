@@ -28,8 +28,7 @@ nav .menu li {
 }
 /*POLICY MENU*/
     .policy {
-        text-align: center;
-        float: right;
+        float: center;
     padding: 25px 25px;
     margin-right: 25px;
     margin-left: 25px;
@@ -156,8 +155,7 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
-        text-align: center;
-        float: right;
+    float: center;
     padding: 25px 25px;
     margin-right: 25px;
     margin-left: 25px;
@@ -303,8 +301,7 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
-        text-align: center;
-        float: right;
+    float: center;
     padding: 25px 25px;
     margin-right: 25px;
     margin-left: 25px;
@@ -446,8 +443,7 @@ nav a{
         }
     /*POLICY MENU*/
     .policy {
-        text-align: center;
-        float: right;
+    float: center;
     padding: 25px 25px;
     margin-right: 25px;
     margin-left: 25px;
