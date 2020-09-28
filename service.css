@@ -258,7 +258,7 @@
             font-family: Arial, Helvetica, sans-serif;
             display: inline-flexbox;
             text-align: center;
-            padding-top: 4px;
+            padding-top: 6px;
         }
         .service2 a {
             position: absolute;
@@ -439,7 +439,7 @@
             font-family: Arial, Helvetica, sans-serif;
             display: inline-flexbox;
             text-align: center;
-            margin-top: 65px;
+            margin-top: 70px;
         }
         .service2 a {
             position: absolute;
