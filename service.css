@@ -288,35 +288,47 @@
             }
     }
 @media only screen and (min-width: 1870px) {
-        * {
-            margin: 0;
-            padding: 0;
-            }
-        nav {
-            float: right;
-            width: 100%;
-            background-color: rgb(182, 179, 179);
-            border-radius: 1px;
-        }
-        nav .menu li {
-            float: right;
-            padding: 25px 25px;
-            margin-right: 675px;
-            margin-left: 675px;
-            background-color: rgb(221, 221, 221);
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 20px;
-            border-radius: 2px;
-            margin: 40px 55px;
-            list-style-type: none;
-            color: rgb(27, 27, 27);
-        }
-        nav .menu {
-            background-color: rgb(27, 27, 27);
-        }
-        nav a {
-            text-decoration: none;
-        }
+   nav {
+        float: right;
+        width: 100%;
+        background-color: rgb(182, 179, 179);
+        border-radius: 1px;
+    }
+    nav .menu li {
+        box-shadow:  5px 5px 4px #888888;
+        float: right;
+        padding: 25px 25px;
+        margin-right: 25px;
+        margin-left: 25px;
+        background-color: rgb(221, 221, 221);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        border-radius: 2px;
+        margin: 40px 55px;
+        list-style-type: none;
+        color: rgb(27, 27, 27);
+    }
+    /*POLICY MENU*/
+            .policy {
+                float: right;        
+                padding: 25px 25px;
+                margin-right: 400px;
+                margin-left: 400px;
+                background-color: rgb(221, 221, 221);
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 20px;
+                border-radius: 2px;
+                margin: 40px 55px;
+                list-style-type: none;
+                color: rgb(27, 27, 27);
+                }
+        /*Nave Menu*/
+    nav .menu {
+        background-color: rgb(27, 27, 27);
+    }
+    nav a{
+        text-decoration: none;
+    }
         .businesslogo {
             width: 100px;
             margin-left: 25px;
