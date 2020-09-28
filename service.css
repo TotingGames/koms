@@ -441,7 +441,7 @@
             text-align: center;
         }
         .service2 a {
-            position: fixed;
+            position: absolute;
             border: 25px 25px 25px;
             border-radius: 2px;
             margin-left: 850px;
