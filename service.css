@@ -441,6 +441,9 @@
             text-align: center;
             padding-top: 8%;
         }
+       .p2 {
+          padding-top: 0;
+       }
         .service2 a {
             position: absolute;
             border: 25px 25px 25px;
