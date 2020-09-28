@@ -33,13 +33,13 @@
         margin-left: 25px;
         margin-top: 3px;
     }
-    .service p{ 
+    .service p { 
         font-size: 32px;
         font-family: Arial, Helvetica, sans-serif;
         display: inline-flexbox;
         text-align: center;
     }
-    .service a{
+    .service a {
         position: absolute;
         border: 25px 25px 25px;
         border-radius: 2px;
@@ -110,7 +110,7 @@
             margin-top: 3px;
             height: 62px;
         }
-        .service p{ 
+        .service p { 
             font-size: 32px;
             font-family: Arial, Helvetica, sans-serif;
             display: inline-flexbox;
@@ -187,7 +187,7 @@
             margin-top: 3px;
             height: 62px;
         }
-        .service p{ 
+        .service p { 
             font-size: 32px;
             font-family: Arial, Helvetica, sans-serif;
             display: inline-flexbox;
@@ -265,7 +265,7 @@
                 margin-top: 3px;
                 height: 62px;
             }
-            .service p{ 
+            .service p { 
                 font-size: 25px;
                 font-family: Arial, Helvetica, sans-serif;
                 display: inline-flexbox;
