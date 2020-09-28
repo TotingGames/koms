@@ -461,5 +461,7 @@
             text-align: center;
             text-decoration: none;
             position: absolute;
+           right: 0px;
+           left: 0px;
         }
     }
