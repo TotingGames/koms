@@ -434,7 +434,7 @@
             text-align: center;
             text-decoration: none;
         }
-               .service2 #p2 { 
+               .service2, #p2 { 
             font-size: 32px;
             font-family: Arial, Helvetica, sans-serif;
             display: inline-flexbox;
