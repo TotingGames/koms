@@ -460,6 +460,6 @@
             font-size: 32px;
             text-align: center;
             text-decoration: none;
-           position: fixed;
+            position: absolute;
         }
     }
