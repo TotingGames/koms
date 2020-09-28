@@ -434,12 +434,12 @@
             text-align: center;
             text-decoration: none;
         }
-               .service2 { 
+               .service2 p { 
             font-size: 32px;
             font-family: Arial, Helvetica, sans-serif;
             display: inline-flexbox;
             text-align: center;
-            padding-top: 7.5%;
+            padding-top: 25px;
         }
         .service2 a {
             position: absolute;
