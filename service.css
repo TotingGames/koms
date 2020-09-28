@@ -34,7 +34,7 @@
         margin-top: 3px;
     }
     .service p { 
-        font-size: 32px;
+        font-size: 64px;
         font-family: Arial, Helvetica, sans-serif;
         display: inline-flexbox;
         text-align: center;
@@ -50,7 +50,7 @@
         padding-right: 45px;
         background-color: rgb(214, 214, 214);
         font-family: Arial black, Helvetica, sans-serif;
-        font-size: 32px;
+        font-size: 64px;
         text-align: center;
         text-decoration: none;
     }
