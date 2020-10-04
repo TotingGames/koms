@@ -40,6 +40,7 @@
         text-align: center;
     }
     .service1 a {
+        float: left;
         position: absolute;
         border: 25px 25px 25px;
         border-radius: 2px;
@@ -62,6 +63,7 @@
         padding-top: 4px;
     }
     .service2 a {
+        float: left;
         position: absolute;
         border: 25px 25px 25px;
         border-radius: 2px;
@@ -85,6 +87,7 @@
         padding-top: 80px;
     }
     .service3 a {
+        float: left;
         position: absolute;
         border: 25px 25px 25px;
         border-radius: 2px;
