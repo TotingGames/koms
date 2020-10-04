@@ -205,7 +205,7 @@
         font-family: Arial, Helvetica, sans-serif;
         display: inline-flexbox;
         text-align: center;
-        padding-top: 35px;
+        padding-top: 40px;
     }
     .service3 a {
         position: absolute;
@@ -221,7 +221,7 @@
         font-size: 32px;
         text-align: center;
         text-decoration: none;
-        padding: 126px;
+        padding: 125px;
     }
 }
 @media only screen and (min-width: 414px) {
