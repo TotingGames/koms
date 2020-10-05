@@ -77,12 +77,12 @@
         text-decoration: none;
         padding: 2px;
     }
-            .service3 p {
+       .service3 p {
         font-size: 32px;
         font-family: Arial, Helvetica, sans-serif;
         display: inline-flexbox;
         text-align: center;
-        padding-top: 60px;
+        padding-top: 4px;
     }
     .service3 a {
         position: absolute;
@@ -98,7 +98,7 @@
         font-size: 32px;
         text-align: center;
         text-decoration: none;
-        padding: 10px;
+        padding: 2px;
     }
 }
 @media only screen and (min-width: 768px) {
