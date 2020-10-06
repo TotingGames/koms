@@ -77,29 +77,6 @@
         text-decoration: none;
         padding: 2px;
     }
-      .service3 p {
-        font-size: 32px;
-        font-family: Arial, Helvetica, sans-serif;
-        display: inline-flexbox;
-        text-align: center;
-        padding-top: 125px;
-    }
-    .service3 a {
-        position: absolute;
-        border: 25px 25px 25px;
-        border-radius: 2px;
-        margin-left: 675px;
-        margin-right: 675px;
-        padding: 17.5px 17.5px 17.5px 17.5px;
-        padding-left: 45px;
-        padding-right: 45px;
-        background-color: rgb(214, 214, 214);
-        font-family: Arial black, Helvetica, sans-serif;
-        font-size: 32px;
-        text-align: center;
-        text-decoration: none;
-        padding: 2px;
-    }
 }
 @media only screen and (min-width: 768px) {
     * {
